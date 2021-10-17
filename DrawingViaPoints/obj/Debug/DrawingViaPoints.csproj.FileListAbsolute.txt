@@ -1,0 +1,10 @@
+D:\C# programs\points\DrawingViaPoints\bin\Debug\DrawingViaPoints.exe.config
+D:\C# programs\points\DrawingViaPoints\bin\Debug\DrawingViaPoints.exe
+D:\C# programs\points\DrawingViaPoints\bin\Debug\DrawingViaPoints.pdb
+D:\C# programs\points\DrawingViaPoints\obj\Debug\DrawingViaPoints.csproj.AssemblyReference.cache
+D:\C# programs\points\DrawingViaPoints\obj\Debug\DrawingViaPoints.Form1.resources
+D:\C# programs\points\DrawingViaPoints\obj\Debug\DrawingViaPoints.Properties.Resources.resources
+D:\C# programs\points\DrawingViaPoints\obj\Debug\DrawingViaPoints.csproj.GenerateResource.cache
+D:\C# programs\points\DrawingViaPoints\obj\Debug\DrawingViaPoints.csproj.CoreCompileInputs.cache
+D:\C# programs\points\DrawingViaPoints\obj\Debug\DrawingViaPoints.exe
+D:\C# programs\points\DrawingViaPoints\obj\Debug\DrawingViaPoints.pdb
